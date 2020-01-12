@@ -1,0 +1,1 @@
+alert("lecture_js_alert");
